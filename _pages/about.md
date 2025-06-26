@@ -29,6 +29,8 @@ My research focuses on establishing Sorcin as a model system for investigating p
 [Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering]
 **Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, Yanxin Liu
 - [Ye, Qiushi, et al. "Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering." bioRxiv (2025): 2025-03.](https://www.biorxiv.org/content/10.1101/2025.03.03.641334v1) 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
