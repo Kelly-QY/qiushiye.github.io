@@ -30,8 +30,9 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
 
 **Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, Yanxin Liu
 
-- [**Ye, Q.**, et al. "Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering." bioRxiv (2025): 2025-03.](https://www.biorxiv.org/content/10.1101/2025.03.03.641334v1) 
-
+- [**Ye, Q.**, et al. "Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering." bioRxiv (2025): 2025-03.](https://www.biorxiv.org/content/10.1101/2025.03.03.641334v1)
+- [**Ye, Q.**, Wang, H., Xu, F., Zhang, S., Zhang, S., Yang, Z., & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning. International Journal of Molecular Sciences, 25(9), 4662.](https://www.mdpi.com/1422-0067/25/9/4662)
+- [**Ye, Q.**, Zhao, Y., Li, X., Zhao, Y., Fu, X., Zhang, S., ... & Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning. Combinatorial Chemistry & High Throughput Screening, 26(3), 449-458.](https://dx.doi.org/10.2174/1386207325666220514143909)
 - [Carillo, K. J., He, Y.,**Ye, Q.**, Delaeter, N., Chen, Y., Orban, J., & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin. Biomolecular NMR Assignments, 1-4.](https://link.springer.com/article/10.1007/s12104-024-10196-0)
 
 # 🎖 Honors and Awards
