@@ -7,10 +7,8 @@
 
 # Site Settings
 title                    : "Qiushi Ye"
-description              : "I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting Ph.D. student in the Department of Chemistry and Biochemistry at the University of Maryland, College Park (UMD) and the Institute for Bioscience and Biotechnology Research (IBBR).
-
-My research focuses on establishing Sorcin as a model system for investigating protein aggregation. Single-particle cryo-electron microscopy (cryo-EM) and molecular dynamics (MD) simulations serve as the principal techniques in my research. Outside the lab, I enjoy swimming and hiking."
-repository               : "Kelly-QY/Kelly-QY.github.io"
+description              : ""
+repository               : "Kelly-QY/qiushiye.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
