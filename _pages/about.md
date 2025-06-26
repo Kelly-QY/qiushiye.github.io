@@ -23,7 +23,7 @@ My research focuses on establishing Sorcin as a model system for investigating p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/stopped-flow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
 
