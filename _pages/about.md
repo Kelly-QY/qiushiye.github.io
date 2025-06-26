@@ -25,7 +25,6 @@ My research focuses on establishing Sorcin as a model system for investigating p
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
 
 **Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, Yanxin Liu
@@ -34,7 +33,10 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/transformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning
   
+**Qiushi Ye**, He Wang, Fanding Xu, Sijia Zhang, Shengli Zhang, Zhiwei Yang, Lei Zhang
+
 - [**Ye, Q.**, Wang, H., Xu, F., Zhang, S., Zhang, S., Yang, Z., & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
