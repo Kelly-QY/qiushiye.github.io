@@ -31,11 +31,9 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
 **Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, Yanxin Liu
 
 - [**Ye, Q.**, et al. "Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering." bioRxiv (2025): 2025-03.](https://www.biorxiv.org/content/10.1101/2025.03.03.641334v1) 
-</div>
-</div>
+
 - [Carillo, K. J., He, Y.,**Ye, Q.**, Delaeter, N., Chen, Y., Orban, J., & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin. Biomolecular NMR Assignments, 1-4.](https://link.springer.com/article/10.1007/s12104-024-10196-0)
-</div>
-</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
