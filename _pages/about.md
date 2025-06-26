@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting Ph.D. student in the Department of Chemistry and Biochemistry at the orcid (UMD) and the Institute for Bioscience and Biotechnology Research (IBBR).
+I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting Ph.D. student in the Department of Chemistry and Biochemistry at the University of Maryland (UMD) and the Institute for Bioscience and Biotechnology Research (IBBR).
 
 My research focuses on establishing Sorcin as a model system for investigating protein aggregation. Single-particle cryo-electron microscopy (cryo-EM) and molecular dynamics (MD) simulations serve as the principal techniques in my research. Outside the lab, I enjoy swimming and hiking.
 
@@ -61,6 +61,7 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - *2016/9 - 2020/6*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 
 # 💬 Conferences
--	Graduate Research Appreciation Day (GRAD), University of Maryland, College Park, Oral Presentation, *2025/4*
--	The 3rd Annual Early Career Symposium, Institute for Bioscience & Biotechnology Research, Poster, *2024/9*
--	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), University of Maryland, Baltimore County, Poster *2024/5*
+-	FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, Arizona, USA, *2025/6*
+-	Graduate Research Appreciation Day (GRAD), Oral presentation, University of Maryland, College Park, MD, USA, *2025/4*
+-	The 3rd Annual Early Career Symposium, Poster, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2024/9*
+-	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA *2024/5*
