@@ -37,17 +37,24 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
 - [**Ye, Q.**, Wang, H., Xu, F., Zhang, S., Zhang, S., Yang, Z., & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
+
 - [**Ye, Q.**, Zhao, Y., Li, X., Zhao, Y., Fu, X., Zhang, S., ... & Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry & High Throughput Screening, 26(3), 449-458.
 - [Carillo, K. J., He, Y.,**Ye, Q.**, Delaeter, N., Chen, Y., Orban, J., & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 1-4.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-	FASEB Protein Aggregation Conference, Travel Award, *2025*
+-	Graduate First-Tier Scholarship, School of Physics, Xi’an Jiaotong University, *2020-2024*
+- Excellent Graduate Student Award, School of Physics, Xi’an Jiaotong University, *2022, 2024*
+-	First-Tier Scholarship for Undergraduate Student (Top 1%), Northwest Normal University, *2016-2020*
+-	Scholarship for Academic Research (Top 1%), Northwest Normal University, *2017-2018*
+-	**Excellent Undergraduate Student Award** (Top 1%), Northwest Normal University, Gansu Province, *2017*
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023/11 - present*, visiting Ph.D. student, Institute for Bioscience & Biotechnology Research, University of Maryland, College Park
+- *2020/9 - present*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
+- *2016/9 - 2020/6*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 
-# 💬 Experiences
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+# 💬 Conferences
+-	Graduate Research Appreciation Day (GRAD), University of Maryland, College Park, Oral Presentation, *2025/4*
+-	The 3rd Annual Early Career Symposium, Institute for Bioscience & Biotechnology Research, Poster, *2024/9*
+-	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), University of Maryland, Baltimore County, Poster *2024/5*
