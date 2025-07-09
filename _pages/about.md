@@ -29,7 +29,7 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
 
 **Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, Yanxin Liu
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- [**Ye, Q.**, et al. Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://www.biorxiv.org/content/10.1101/2025.03.03.641334v1) bioRxiv (2025): 2025-03.
+- [**Ye, Q.**, ... & Liu, Y. Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://www.biorxiv.org/content/10.1101/2025.03.03.641334v1) bioRxiv (2025): 2025-03.
 </div>
 </div>  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/transformer.png' alt="sym" width="100%"></div></div>
@@ -38,14 +38,14 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
   
 **Qiushi Ye**, He Wang, Fanding Xu, Sijia Zhang, Shengli Zhang, Zhiwei Yang, Lei Zhang
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- [**Ye, Q.**, Wang, H., Xu, F., Zhang, S., Zhang, S., Yang, Z., & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
+- [**Ye, Q.**, ... & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
 
-- [**Ye, Q.**, Zhao, Y., Li, X., Zhao, Y., ... & Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry & High Throughput Screening, 26(3), 449-458.
-- [Carillo, K. J., He, Y.,**Ye, Q.**, Delaeter, N., ... & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256. 
-- [Yang, Z., Cai, X.,**Ye, Q.**, Zhao, Y., ..., & Zhang, L. (2023). High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
-- [Yang, Z., Zhang, Z., Zhao, Y.,**Ye, Q.**, ... & Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
+- [**Ye, Q.**, ... & Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry & High Throughput Screening, 26(3), 449-458.
+- [Carillo, K. J., He, Y., **Ye, Q.**, ... & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256. 
+- [Yang, Z., Cai, X., **Ye, Q.**, ..., & Zhang, L. (2023). High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
+- [Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**, ... & Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
 
 # 🎖 Honors and Awards
 -	FASEB Protein Aggregation Conference, Travel Award, *2025*
